@@ -1,8 +1,4 @@
-<!--<div align="center">
- <img height="150" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif"  />
-</div>
--->
-
+<div align="center"><img height="150" src="https://assets-global.website-files.com/60ddfb7437ea94b3fd7f9e81/622aee9e213c0300dbc6d93d_feature%20image%20PV%20-%20KENDALL%20DEWEY.jpg"/></div>
 
 
 ###
